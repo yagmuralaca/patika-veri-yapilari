@@ -1,1 +1,0 @@
-# patika-veri-yapilari
